@@ -8,11 +8,11 @@ export default function Topbar({menuOpen, setMenuOpen}) {
            <a href="#intro" className="logo">genius.</a>
            <div className="itemcontainer">
                <Person className="icon"/>
-               <span> +45474789399</span>
+               <span>204-293-5652</span>
            </div>
            <div className="itemcontainer">
                <Mail className="icon"/>
-               <span>dunska@gmail.com</span>
+               <span>alliokelanre@gmail.com</span>
            </div>
            </div>
         
