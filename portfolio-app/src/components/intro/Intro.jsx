@@ -26,7 +26,7 @@ export default function intro() {
         <h2> Hi There, I am </h2>
         <h1>Olanrewaju Alli Oke</h1>
         <h3>Full Stack Web Developer <span>Developer</span>
-        
+        <a href="assets/Resume.pdf" className="view">View Resume</a>   
         </h3>
       </div>
 
